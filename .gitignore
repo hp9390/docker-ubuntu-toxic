@@ -1,0 +1,5 @@
+*.git
+.DS_Store
+
+# Because this really is a working directory, ignore vagrant's files
+/.vagrant
