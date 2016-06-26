@@ -12,10 +12,7 @@
 #     ░      ░ ▒ ▒░ ░░   ░▒ ░ ▒ ░  ░  ▒   
 #   ░      ░ ░ ░ ▒   ░    ░   ▒ ░░        
 #              ░ ░   ░    ░   ░  ░ ░      
-#
-# Step-by-step 
-#
-# 1) 
+# 
 
 FROM		ubuntu:16.04
 MAINTAINER Florian Maier <contact@marsmenschen.com>
